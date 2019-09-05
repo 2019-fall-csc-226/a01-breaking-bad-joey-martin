@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen      TODO: Change this to your name
-# Username: heggens             TODO: Change this to your username
+# Author: Joey Martin
+# Username: Martinj2
 #
 # Assignment: A01
 #
@@ -16,19 +16,63 @@
 
 ######################################################################
 # (Required) Task 1
-# TODO Ask user for their birth year
+my_year = input('What year were you born?: ')
+if my_year == "1999":
+    print("Rabbit")
+if my_year == "2000":
+    print("Dragon")
+if my_year == "2001":
+    print("Snake")
+if my_year == "2002":
+    print("Horse")
+if my_year == "2003":
+    print("Goat")
+if my_year == "2004":
+    print("Monkey")
+if my_year == "2005":
+    print("Rooster")
+if my_year == "2006":
+    print("Dog")
+if my_year == "2007":
+    print("Pig")
+if my_year == "2008":
+    print("Rat")
+if my_year == "2009":
+    print("Ox")
+if my_year == "2010":
+    print("Tiger")
 
-
-# TODO Check the year using if conditionals, and print the correct animal for that year.
 # See the a01_pets.py for examples
 
 
 ######################################################################
 # (Required) Task 2
-# TODO Ask the user for their friend's birth year
+my_year1 = input("When was your best friend born?: ")
+if my_year1 == "1999":
+    print("Rabbit")
+if my_year1 == "2000":
+    print("Dragon")
+if my_year1 == "2001":
+    print("Snake")
+if my_year1 == "2002":
+    print("Horse")
+if my_year1 == "2003":
+    print("Goat")
+if my_year1 == "2004":
+    print("Monkey")
+if my_year1 == "2005":
+    print("Rooster")
+if my_year1 == "2006":
+    print("Dog")
+if my_year1 == "2007":
+    print("Pig")
+if my_year1 == "2008":
+    print("Rat")
+if my_year1 == "2009":
+    print("Ox")
+if my_year1 == "2010":
+    print("Tiger")
 
-
-# TODO Similar to above, check your friend's year using if conditionals, and print the correct animal for that year
 
 
 ######################################################################
