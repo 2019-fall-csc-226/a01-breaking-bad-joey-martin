@@ -41,7 +41,8 @@ if my_year == "2009":
     print("Ox")
 if my_year == "2010":
     print("Tiger")
-
+if my_year == "2011":
+    print("Rabbit")
 # See the a01_pets.py for examples
 
 
@@ -72,6 +73,8 @@ if my_year1 == "2009":
     print("Ox")
 if my_year1 == "2010":
     print("Tiger")
+if my_year1 == "2011":
+    print("Rabbit")
 
 
 
